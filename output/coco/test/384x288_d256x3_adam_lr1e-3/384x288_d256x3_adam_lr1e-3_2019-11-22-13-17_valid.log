@@ -1,0 +1,10 @@
+2019-11-22 13:17:09,002 => loading model from /home/hongjun/18l_64c_1BB_FPN_122epcho/model_best.pth
+2019-11-22 13:17:13,805 => classes: ['__background__', 'person']
+2019-11-22 13:17:13,805 => num_images: 5000
+2019-11-22 13:17:15,302 => load 6352 samples
+2019-11-22 13:17:22,839 Test: [0/199]	Loss 0.0003 (0.0003)	Accuracy 0.931 (0.931)
+2019-11-22 13:18:16,427 Test: [100/199]	Loss 0.0002 (0.0003)	Accuracy 0.930 (0.887)
+2019-11-22 13:19:09,981 => writing results json to output/coco/test/384x288_d256x3_adam_lr1e-3/results/keypoints_val2017_results_0.json
+2019-11-22 13:19:24,724 | Arch | AP | Ap .5 | AP .75 | AP (M) | AP (L) | AR | AR .5 | AR .75 | AR (M) | AR (L) |
+2019-11-22 13:19:24,725 |---|---|---|---|---|---|---|---|---|---|---|
+2019-11-22 13:19:24,725 | Auto_Pose | 0.775 | 0.936 | 0.848 | 0.744 | 0.820 | 0.800 | 0.943 | 0.862 | 0.768 | 0.851 |
