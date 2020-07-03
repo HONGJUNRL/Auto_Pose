@@ -1,5 +1,6 @@
 # All-Searchable: Full Neural Architecture Search for Human Pose Estimation
-
+# Hongjun
+# Hongjun
 ## Introduction
 This is an official pytorch implementation of [*Deep High-Resolution Representation Learning for Human Pose Estimation*](https://arxiv.org/abs/1902.09212). 
 In this work, we are interested in the human pose estimation problem with a focus on learning reliable high-resolution representations. Most existing methods **recover high-resolution representations from low-resolution representations** produced by a high-to-low resolution network. Instead, our proposed network **maintains high-resolution representations** through the whole process.
